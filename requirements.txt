@@ -1,0 +1,10 @@
+pip install ultralytics
+pip install opencv-python
+pip install torch
+pip install tqdm
+pip install pandas
+pip install json
+pip install telebot
+pip install opencv-python
+pip install pillow
+pip install torchvision
